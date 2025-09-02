@@ -1,12 +1,13 @@
 # CS 506 Final Project: Predicting Housing Prices Using Real Estate Data
-Team Members
-This project was carried out by a team of 5 members:
+## Team Members
+This project was carried out by:
+- Raquel Gonzalez
+- Martin Herguedas  
+- Saad Naji
+- Ru-Yi Ting
+- Timothy Marro
 
-Raquel Gonzalez
-Martin Herguedas
-Saad Naji
-Ru-Yi Ting
-Timothy Marro
+  
 - Description
   - The project aims to predict housing prices based on the size of the house, location, number of rooms, proximity to amenities, and neighborhood characteristics. This will be done using both traditional regression models and more machine learning techniques. Additionally, the project will explore the impact of listing descriptions on prices using sentiment analysis, and segment neighborhoods using clustering methods.
 - Goal
