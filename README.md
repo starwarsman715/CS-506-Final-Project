@@ -1,7 +1,7 @@
 # CS 506 Final Project: Predicting Housing Prices Using Real Estate Data
 
 ## Team Members
-This project was carried out by a team of 5 members:
+This project was carried out by:
 - Raquel Gonzalez
 - Martin Herguedas  
 - Saad Naji
